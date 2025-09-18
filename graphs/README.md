@@ -1,4 +1,3 @@
-Here’s a well-structured and detailed **README.md** you can use:
 
 ---
 
@@ -178,14 +177,4 @@ void BFS(int start, int graph[V][V]) {
   * **DFS (Depth-First Search)** → Stack/Recursion
   * **BFS (Breadth-First Search)** → Queue
 
-These concepts form the foundation for advanced algorithms like **Dijkstra’s, Prim’s, Kruskal’s, and A\*** used in graph theory and computer science applications.
-
 ---
-
-```
-
----
-
-Do you want me to also include **real-world examples** (like maps, social networks, file systems) in the README to make it more practical and engaging?
-```
-

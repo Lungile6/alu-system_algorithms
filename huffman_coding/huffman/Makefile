@@ -1,4 +1,4 @@
-C = gcc
+CC = gcc
 CFLAGS = -Wall -Werror -Wextra -pedantic
 
 SRC0 = huffman.c
